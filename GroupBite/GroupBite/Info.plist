@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>GroupBite needs access to your location to find restaurants near you.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>GroupBite needs access to your location to find restaurants near you.</string>
+	<key>NSKeychainUsageDescription</key>
+	<string>GroupBite needs access to Keychain to securely store authentication tokens.</string>
+	<key>NSKeychainAccessibility</key>
+	<string>kSecAttrAccessibleWhenUnlocked</string>
+</dict>
+</plist> 

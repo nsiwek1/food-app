@@ -94,6 +94,23 @@ iOSInjectionProject/
 Config.xcconfig
 GoogleService-Info.plist
 APIConfig.swift
+*API*.swift
+*Config*.swift
+secrets.json
+config.json
+*.plist
+!Info.plist
+!GroupBite.entitlements
+# Additional API key protection
+*key*.swift
+*secret*.swift
+*credential*.swift
+api_keys.txt
+secrets.txt
+credentials.txt
+# Template files (should not be committed)
+*.template.swift
+!APIConfig.template.swift
 
 # Temporary files
 *.tmp
